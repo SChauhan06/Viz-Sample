@@ -1,0 +1,3 @@
+ICP region codes
+
+colors <- c("#51ae96","#7e78b8","#d70b8c","#df79b0","#00607f","#659ad2","#33c0cd")

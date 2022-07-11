@@ -1,0 +1,38 @@
+﻿Country Name,Country Code,Classification Name,Classification Code,Series Name,Series Code,2011 [YR2011]
+AFRICA,AFR,01. Gross domestic product,C01,PRICE LEVEL INDEX (World = 100),S08,58.6112981815122
+AFRICA,AFR,02. Actual individual consumption,C02,PRICE LEVEL INDEX (World = 100),S08,55.0433622037413
+AFRICA,AFR,18. Collective consumption expenditure by government,C18,PRICE LEVEL INDEX (World = 100),S08,48.9038991057485
+AFRICA,AFR,19. Gross fixed capital formation,C19,PRICE LEVEL INDEX (World = 100),S08,70.5365253851928
+ASIA AND THE PACIFIC,ASI,01. Gross domestic product,C01,PRICE LEVEL INDEX (World = 100),S08,59.6773403038852
+ASIA AND THE PACIFIC,ASI,02. Actual individual consumption,C02,PRICE LEVEL INDEX (World = 100),S08,54.5152061523964
+ASIA AND THE PACIFIC,ASI,18. Collective consumption expenditure by government,C18,PRICE LEVEL INDEX (World = 100),S08,58.616869319771
+ASIA AND THE PACIFIC,ASI,19. Gross fixed capital formation,C19,PRICE LEVEL INDEX (World = 100),S08,69.2450166212116
+CARIBBEAN,CAR,01. Gross domestic product,C01,PRICE LEVEL INDEX (World = 100),S08,92.5230689148064
+CARIBBEAN,CAR,02. Actual individual consumption,C02,PRICE LEVEL INDEX (World = 100),S08,97.1755436908947
+CARIBBEAN,CAR,18. Collective consumption expenditure by government,C18,PRICE LEVEL INDEX (World = 100),S08,65.179623025942
+CARIBBEAN,CAR,19. Gross fixed capital formation,C19,PRICE LEVEL INDEX (World = 100),S08,91.0935555895619
+COMMONWEALTH OF INDEPENDENT STATES,CIS,01. Gross domestic product,C01,PRICE LEVEL INDEX (World = 100),S08,71.8425117448371
+COMMONWEALTH OF INDEPENDENT STATES,CIS,02. Actual individual consumption,C02,PRICE LEVEL INDEX (World = 100),S08,58.5576512774172
+COMMONWEALTH OF INDEPENDENT STATES,CIS,18. Collective consumption expenditure by government,C18,PRICE LEVEL INDEX (World = 100),S08,63.6888572706019
+COMMONWEALTH OF INDEPENDENT STATES,CIS,19. Gross fixed capital formation,C19,PRICE LEVEL INDEX (World = 100),S08,121.862913980668
+Eurostat-OECD,EUO,01. Gross domestic product,C01,PRICE LEVEL INDEX (World = 100),S08,130.45256729712
+Eurostat-OECD,EUO,02. Actual individual consumption,C02,PRICE LEVEL INDEX (World = 100),S08,126.920031234792
+Eurostat-OECD,EUO,18. Collective consumption expenditure by government,C18,PRICE LEVEL INDEX (World = 100),S08,129.851525681088
+Eurostat-OECD,EUO,19. Gross fixed capital formation,C19,PRICE LEVEL INDEX (World = 100),S08,136.004666921185
+WESTERN ASIA,WAS,01. Gross domestic product,C01,PRICE LEVEL INDEX (World = 100),S08,61.9252053308877
+WESTERN ASIA,WAS,02. Actual individual consumption,C02,PRICE LEVEL INDEX (World = 100),S08,55.8502654734366
+WESTERN ASIA,WAS,18. Collective consumption expenditure by government,C18,PRICE LEVEL INDEX (World = 100),S08,53.4879154560162
+WESTERN ASIA,WAS,19. Gross fixed capital formation,C19,PRICE LEVEL INDEX (World = 100),S08,60.0725636166418
+LATIN AMERICA,LAT,01. Gross domestic product,C01,PRICE LEVEL INDEX (World = 100),S08,97.0657579720705
+LATIN AMERICA,LAT,02. Actual individual consumption,C02,PRICE LEVEL INDEX (World = 100),S08,93.4935897916148
+LATIN AMERICA,LAT,18. Collective consumption expenditure by government,C18,PRICE LEVEL INDEX (World = 100),S08,110.043996559566
+LATIN AMERICA,LAT,19. Gross fixed capital formation,C19,PRICE LEVEL INDEX (World = 100),S08,97.4162213079717
+WORLD,WOR,01. Gross domestic product,C01,PRICE LEVEL INDEX (World = 100),S08,100
+WORLD,WOR,02. Actual individual consumption,C02,PRICE LEVEL INDEX (World = 100),S08,100
+WORLD,WOR,18. Collective consumption expenditure by government,C18,PRICE LEVEL INDEX (World = 100),S08,100
+WORLD,WOR,19. Gross fixed capital formation,C19,PRICE LEVEL INDEX (World = 100),S08,100
+,,,,,,
+,,,,,,
+,,,,,,
+Data from database: International Comparison Program (ICP) 2011,,,,,,
+Last Updated: 05/09/2017,,,,,,
